@@ -1,0 +1,1 @@
+# plugins-testerwp-ecommerce-companion
